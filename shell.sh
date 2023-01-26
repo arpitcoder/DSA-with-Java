@@ -1,2 +1,2 @@
-echo "this is for test again changed" > data.txt
+echo "this is for test again " > data.txt
 
