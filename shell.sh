@@ -1,2 +1,2 @@
-echo "this is for test again " > data.txt
+echo "this is for test again hey " > data.txt
 
